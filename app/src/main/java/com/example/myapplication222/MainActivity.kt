@@ -28,7 +28,9 @@ class MainActivity : ComponentActivity() {
             }yıulyılyly
         }ylylylyılhlh
     }ylylyy
-}hhlhlhlh
+}hhlhlhlhgfhjtrjtrjtj
+yukyukykytuktyr
+fjykfykukyu
 hljhlj
 @Composabl
 tekt
